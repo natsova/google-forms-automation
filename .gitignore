@@ -1,0 +1,13 @@
+.env
+keys/
+logs/
+markers/
+submissions/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.json
+*.tmp
+.DS_Store
+*~
