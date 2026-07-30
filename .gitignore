@@ -1,6 +1,7 @@
 .env
 keys/
 logs/
+*.log
 markers/
 submissions/
 __pycache__/
